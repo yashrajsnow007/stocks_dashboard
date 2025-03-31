@@ -8,7 +8,7 @@ import time
 import numpy as np
 
 st.set_page_config(
-    page_title="Stock Market Dashboard",
+    page_title="Stock Market Dashboard-by YRC",
     page_icon="📈",
     layout="wide"
 )
